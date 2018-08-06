@@ -18,7 +18,7 @@ package io.openshift.booster;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.core.Is.is;
 
-import io.openshift.booster.service.Greeting;
+import com.nttdata.test.service.Greeting;
 import org.junit.Test;
 
 public abstract class AbstractBoosterApplicationTest {
