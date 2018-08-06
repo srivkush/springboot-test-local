@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.openshift.booster;
+package com.nttdata.test;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.core.Is.is;
